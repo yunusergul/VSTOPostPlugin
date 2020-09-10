@@ -1,0 +1,46 @@
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\bin\Debug\WordAddIn9.dll
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\bin\Debug\WordAddIn9.pdb
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\bin\Debug\WordAddIn9.dll.manifest
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\bin\Debug\WordAddIn9.vsto
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.csprojAssemblyReference.cache
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.Properties.Resources.resources
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.Ribbon2.resources
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.csproj.CopyComplete
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.dll
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.pdb
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\bin\Debug\Nancy.dll
+C:\Users\yunus\source\repos\WordAddIn9\WordAddIn9\bin\Debug\Nancy.xml
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\WordAddIn9.dll
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\WordAddIn9.pdb
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\WordAddIn9.dll.manifest
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\WordAddIn9.vsto
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\Nancy.dll
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\Newtonsoft.Json.dll
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\Nancy.xml
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\Newtonsoft.Json.xml
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.csprojAssemblyReference.cache
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.Properties.Resources.resources
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.Ribbon2.resources
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.csproj.GenerateResource.cache
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.csproj.CoreCompileInputs.cache
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.csproj.CopyComplete
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.dll
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\obj\Debug\WordAddIn9.pdb
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\ControlzEx.dll
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\Fluent.dll
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\RibbonControlsLibrary.dll
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\ControlzEx.pdb
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\ControlzEx.xml
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\Fluent.pdb
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\Fluent.xml
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Kişisel Dosyalar\Yeni klasör\repos\WordAddIn9\WordAddIn9\bin\Debug\Microsoft.Xaml.Behaviors.xml
